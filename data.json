@@ -1,0 +1,15 @@
+{
+    "name": "Austin Nguyen",
+    "age": 21,
+    "city": "Renton, WA",
+    "interests": [
+        "Soccer",
+        "Football",
+        "Sweets",
+        "Games",
+        "Music",
+        "Martial Arts",
+        "Secret Hobby"
+    ],
+    "is_student": true
+}
